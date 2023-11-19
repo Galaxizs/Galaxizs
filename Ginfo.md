@@ -1,2 +1,5 @@
 Hi, I’m Galaxizs and im insanely stupid :D 
-I’m currently learning C#, Linux, and HTML
+___________________________________________________
+  I’m currently learning C#, Linux, and HTML ツ
+  _________________________________________________ 
+       
